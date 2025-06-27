@@ -6,7 +6,7 @@ This is a **test application** built using Apple’s new **FoundationModels** fr
 
 You simply provide an initial topic, and the two droids will carry out a continuous conversation, exploring and debating the subject with their own personalities and perspectives.
 
-This app is a playful experiment designed to demonstrate the capabilities of FoundationModels and multi-agent conversation logic using natural language generation.
+This app is a playful experiment designed to demonstrate the capabilities of FoundationModels.
 
 ## 🚀 Technologies Used
 
