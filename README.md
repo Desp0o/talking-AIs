@@ -21,7 +21,7 @@ This app is a playful experiment designed to demonstrate the capabilities of Fou
 <img width="250" alt="1" src="https://github.com/user-attachments/assets/0dd44c44-cc72-482d-acae-6f5ab0302685" />
 <img width="250" alt="2" src="https://github.com/user-attachments/assets/1aa8969d-1b53-419b-9e26-b06ab6edc3ff" />
 
-## Demo 🎥
+## 🎥 Demo
 [Watch the video](https://youtube.com/shorts/lcO0v6N3f_8?feature=share)
 
 ---
